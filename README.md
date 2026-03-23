@@ -1,2 +1,3 @@
-# sql-datawarehouse-project
-Nuilding a modern warehouse using MySQLserver, including ETL processes
+# SQL-DataWarehouse-Project
+Building a modern warehouse using MySQLserver, including ETL processes
+Bronze and Silver Layer
