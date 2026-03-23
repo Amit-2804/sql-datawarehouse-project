@@ -1,6 +1,6 @@
 # SQL-DataWarehouse-Project
 Building a modern warehouse using MySQLserver, including ETL processes
 
-Extracting data from csv files from CRM and ERP Systems to Bronze Layer.
+Extracting raw & unorganized data from csv files from CRM and ERP Systems and loading to Bronze Layer.
 
-Data Transfromation includes cleaning, removing Null data, Empty data, Invalid Data, Casting Data and loading into Silver layer.
+Bronze layer data is transformed including cleaning, removing Null data, Invalid Data, Casting Data and loading into Silver layer.
